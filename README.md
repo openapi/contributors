@@ -1,8 +1,8 @@
-# OpenAPI Contributors
+# Openapi® Contributors
 
-> A simple, frictionless way to declare: *"I am a contributor to the OpenAPI ecosystem."*
+> A simple, frictionless way to declare: *"I am a contributor to the Openapi® ecosystem."*
 
-[![OpenAPI Contributor](https://img.shields.io/badge/OpenAPI-Contributor-blue)](https://github.com/openapi/contributors)
+[![Openapi® Contributor](https://img.shields.io/badge/Openapi%C2%AE-Contributor-blue)](https://github.com/openapi/contributors)
 
 ---
 
@@ -14,7 +14,7 @@
 4. Add the badge to your README
 
 ```md
-[![OpenAPI Contributor](https://img.shields.io/badge/OpenAPI-Contributor-blue)](https://github.com/openapi/contributors)
+[![Openapi® Contributor](https://img.shields.io/badge/Openapi%C2%AE-Contributor-blue)](https://github.com/openapi/contributors)
 ```
 
 ---
