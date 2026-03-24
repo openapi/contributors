@@ -2,7 +2,7 @@
 
 > A simple, frictionless way to declare: *"I am a contributor to the Openapi® ecosystem."*
 
-[![Openapi® Contributor](https://img.shields.io/badge/Openapi%C2%AE-Contributor-blue)](https://github.com/openapi/contributors)
+[![Openapi® Contributor](https://img.shields.io/badge/Openapi%C2%AE-Contributor-753f8b)](https://github.com/openapi/contributors)
 
 ## How to join
 
@@ -12,7 +12,7 @@
 4. Add the badge to your profile README
 
 ```md
-[![Openapi® Contributor](https://img.shields.io/badge/Openapi%C2%AE-Contributor-blue)](https://github.com/openapi/contributors)
+[![Openapi® Contributor](https://img.shields.io/badge/Openapi%C2%AE-Contributor-753f8b)](https://github.com/openapi/contributors)
 ```
 
 ## Contributors
