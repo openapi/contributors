@@ -30,4 +30,5 @@
 |                                                                                                          | Name | Main Project |
 |:--------------------------------------------------------------------------------------------------------:|------|--------------|
 | [![francescobianco](https://github.com/francescobianco.png?size=40)](https://github.com/francescobianco) | [Francesco Bianco](https://github.com/francescobianco) | [openapi/contributors](https://github.com/openapi/contributors) |
+| [![Deadpool2000](https://github.com/Deadpool2000.png?size=40)](https://github.com/Deadpool2000) | [Salil M](https://github.com/Deadpool2000) | [openapi/openapi-python-sdk](https://github.com/openapi/openapi-python-sdk) |
 <!-- END OF CONTRIBUTORS LIST - add your row above this line -->
