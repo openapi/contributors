@@ -1,3 +1,5 @@
 .idea/
 .vscode/
+.claude/
+.convcommit
 CONCEPT.md
