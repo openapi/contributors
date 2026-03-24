@@ -7,7 +7,7 @@
 ## How to join
 
 1. Fork this repository
-2. Add yourself to the list below — use your real name, nickname, alias, or whatever you go by (alphabetical order)
+2. Add yourself to the list below — use your real name, nickname, alias, or whatever you go by
 3. Open a Pull Request
 4. Add the badge to your profile README
 
