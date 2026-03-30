@@ -1,6 +1,6 @@
 # Openapi® Contributors
 
-> A simple, frictionless way to declare: *"I am a contributor to the Openapi® ecosystem."*
+> A simple, frictionless way to declare: _"I am a contributor to the Openapi® ecosystem."_
 
 [![Openapi® Contributor](https://img.shields.io/badge/Openapi%C2%AE-Contributor-753f8b)](https://github.com/openapi/contributors)
 
@@ -27,8 +27,11 @@
   Row template:
   | [![YOUR_USERNAME](https://github.com/YOUR_USERNAME.png?size=40)](https://github.com/YOUR_USERNAME) | [Your Name](https://github.com/YOUR_USERNAME) | [org/repo](https://github.com/org/repo) |
 -->
-|                                                                                                          | Name | Main Project |
-|:--------------------------------------------------------------------------------------------------------:|------|--------------|
-| [![francescobianco](https://github.com/francescobianco.png?size=40)](https://github.com/francescobianco) | [Francesco Bianco](https://github.com/francescobianco) | [openapi/contributors](https://github.com/openapi/contributors) |
-| [![Deadpool2000](https://github.com/Deadpool2000.png?size=40)](https://github.com/Deadpool2000) | [Salil M](https://github.com/Deadpool2000) | [openapi/openapi-python-sdk](https://github.com/openapi/openapi-python-sdk) |
+
+|                                                                                                          | Name                                                   | Main Project                                                                |
+| :------------------------------------------------------------------------------------------------------: | ------------------------------------------------------ | --------------------------------------------------------------------------- |
+| [![francescobianco](https://github.com/francescobianco.png?size=40)](https://github.com/francescobianco) | [Francesco Bianco](https://github.com/francescobianco) | [openapi/contributors](https://github.com/openapi/contributors)             |
+|     [![Deadpool2000](https://github.com/Deadpool2000.png?size=40)](https://github.com/Deadpool2000)      | [Salil M](https://github.com/Deadpool2000)             | [openapi/openapi-python-sdk](https://github.com/openapi/openapi-python-sdk) |
+|  [![Seraphim200001](https://github.com/Seraphim200001.png?size=40)](https://github.com/Seraphim200001)   | [Salil M](https://github.com/Seraphim200001)           | [openapi/openapi-php-sdk](https://github.com/openapi/openapi-php-sdk)       |
+
 <!-- END OF CONTRIBUTORS LIST - add your row above this line -->
