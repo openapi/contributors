@@ -1,5 +1,5 @@
 ---
-name: "Idea / Suggestion / Report"
+name: "🇬🇧 Idea / Suggestion / Report"
 about: "Got an idea, suggestion, curiosity, or interesting project to share?"
 title: "[IDEA] "
 labels: idea
