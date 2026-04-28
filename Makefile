@@ -34,5 +34,5 @@
 push:
 	@git config credential.helper 'cache --timeout=3600'
 	@git add .
-	@git commit -m "Daily update: $(shell date +'%Y-%m-%d %H:%M:%S')"
+	@git commit -m "Daily update: $(shell date +'%Y-%m-%d %H:%M:%S')" || true
 	@git push
