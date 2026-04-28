@@ -1,5 +1,5 @@
 ---
-name: "🇮🇹 Idea / Suggerimento / Segnalazione"
+name: "🇮🇹 Idee / Suggerimenti / Segnalazioni"
 about: "Hai un'idea, un suggerimento, una curiosità o un progetto interessante da segnalare?"
 title: "[IDEA] "
 labels: idea
